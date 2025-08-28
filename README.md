@@ -1,41 +1,29 @@
 <div align=center>
-  <img width="250" src="https://files.authing.co/authing-console/authing-logo-new-20210924.svg" />
+  <img width="250" src="https://i-sog.shec.edu.cn/shibboleth-ds/imgs/Rlogo1.png" />
 </div>
 <div align="center">
-  <a href="javascript:;"><img src="https://img.shields.io/badge/test-passing-brightgreen" /></a>
-  <a href="https://forum.authing.cn/" target="_blank"><img src="https://img.shields.io/badge/chat-forum-blue" /></a>
-  <a href="https://console.authing.cn/openapi/" target="_blank"><img src="https://img.shields.io/badge/docs-passing-brightgreen" /></a>
-  <a href="javascript:;"><img src="https://img.shields.io/badge/License-MIT-success" alt="License"></a>
+  <img src="https://img.shields.io/badge/test-passing-brightgreen" />
+  <img src="https://img.shields.io/badge/chat-forum-blue" />
+  <img src="https://img.shields.io/badge/docs-passing-brightgreen" />
+  <img src="https://img.shields.io/badge/License-MIT-success" alt="License">
 </div>
 
- English | [简体中文](./README-zh_CN.md)
+# SEAC-Authing Python SDK
 
-You can use the Authing Python SDK to quickly integrate authentication capabilities for new or existing Back End applications.
+您可以使用 SEAC-Authing Python SDK 为新的或现有的后端应用程序快速集成身份验证功能。
 
-## 📚 Documentation
+## 📚 文档
 
-To check out documentation, please refers to [docs](https://docs.authing.cn/v3/reference/sdk/python/install.html).
+请查看文档以获取详细信息。
 
-This SDK is built upon [Authing Management API(v3)](https://api.authing.cn/openapi/v3/management/) and [Authing Authentication API(v3)](https://api.authing.cn/openapi/v3/authentication/), for older version, please refers to [older version docs](https://docs.authing.cn/v2/reference/sdk-for-python/).
+此 SDK 基于 SEAC-Authing 管理 API(v3) 和 SEAC-Authing 身份验证 API(v3) 构建，如需旧版本，请参考旧版本文档。
 
-## ❓ Questions
+## ❓ 问题
 
-For questions and support please use the [official forum](https://forum.authing.cn/). The issue list of this repo is exclusively for bug reports and feature requests.  
+如有问题和支持，请联系上海教育认证平台管理员。
 
-## 🤝 Contribution
+## 🎁 许可证
 
-- Fork it
-- Create your feature branch (git checkout -b my-new-feature)
-- Commit your changes (git commit -am 'Add some feature')
-- Push to the branch (git push -u origin my-new-feature)
-- Create new Pull Request
+MIT
 
-Thank you to all the people who already contributed to Python SDK !
-
-[Contributing to Authing Open Source Repos](https://github.com/Authing/.github/blob/main/CONTRIBUTING.md#English)
-
-## 🎁 License
-
-[MIT](https://opensource.org/licenses/MIT)
-
-Copyright (c) 2019 Authing
+Copyright (c) 2025 SEAC
